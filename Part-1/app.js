@@ -3,7 +3,7 @@
 })()
 
 var toggle = true
-function Date() {
+function changeText() {
     if (toggle) {
         toggle = false;
         return "things change"
